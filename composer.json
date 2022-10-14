@@ -1,9 +1,9 @@
 {
-    "name": "DZavodov/hangman",
+    "name": "dzavodov/hangman",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "DZavodov\\Hangman\\": "src/"
+            "dzavodov\\Hangman\\": "src/"
         },
          "files": [
             "src/Controller.php",
@@ -12,7 +12,7 @@
     },
     "authors": [
         {
-            "name": "DZavodov"
+            "name": "dzavodov"
         }
     ],
     "require": {

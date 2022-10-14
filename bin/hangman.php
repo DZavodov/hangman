@@ -6,6 +6,6 @@
         require_once($autoLoadGit);
     } else {require_once($autoLoadPackgaist);}
 
-    use function DZavodov\hangman\Controller\startGame;
+    use function dzavodov\hangman\Controller\startGame;
     startGame();
 ?>

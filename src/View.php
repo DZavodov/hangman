@@ -1,5 +1,5 @@
 <?php 
-    namespace DZavodov\hangman\View;
+    namespace dzavodov\hangman\View;
     function showGame() {
         echo "Game shown".PHP_EOL;
     }

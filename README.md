@@ -40,7 +40,7 @@
 
 1. Установить composer, если он не установлен;
 2. Перейти в каталог, в который вы будете клонировать проект;
-3. Выполнить команду `composer require DZavodov/hangman`;
+3. Выполнить команду `composer require dzavodov/hangman`;
 4. Перейти в каталог vendor/bin;
 5. Запустить файл hangman.bat.
 
@@ -48,4 +48,4 @@
 
 ## Ссылки
 
-Packagist: <https://packagist.org/packages/DZavodov/hangman>
+Packagist: <https://packagist.org/packages/dzavodov/hangman>
