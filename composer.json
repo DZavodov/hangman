@@ -20,6 +20,6 @@
     },
     "bin": [
         "bin/hangman.php"
-    ],
+    ]
 
 }
