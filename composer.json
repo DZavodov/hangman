@@ -21,7 +21,8 @@
         },
         "files": [
             "src/Controller.php",
-            "src/View.php"
-        ]
+            "src/View.php",
+            "src/Model.php"
+		]
     }
 }
